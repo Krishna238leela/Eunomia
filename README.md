@@ -1,1 +1,1 @@
-<a href="http://eunomiapharmaservices.com/">Eunomia</a>
+<a href="http://eunomiapharmaservices.com/" target="_blank">Eunomia</a>
