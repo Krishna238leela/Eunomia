@@ -1,0 +1,125 @@
+<header id="navbar-spy" class="header header-12 header-transparent header-fixed">
+	<nav id="primary-menu" class="navbar navbar-fixed-top">
+		<div class="container">
+			<div class="container-bordered">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				</button>
+				<a class="logo" href="index.php">
+					<img class="logo-light" src="assets/images/white-logo.png" alt=" Logo">
+					<img class="logo-dark" src="assets/images/dark-logo.png" alt=" Logo">
+				</a>
+			</div>
+			
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse pull-right" id="navbar-collapse-1">
+				<ul class="nav navbar-nav nav-pos-right navbar-left">
+				
+	<!-- Home Menu -->
+	<li class="index">
+		<a class="index" href="index.php">Home</a>
+
+	</li>
+	<!-- li end -->
+	<!-- Pages Menu -->
+
+	<!-- li end -->
+
+
+	<!-- shop Menu -->
+	<li class="has-dropdown">
+		<a href="" data-toggle="dropdown" class="dropdown-toggle menu-item" data-hover="shop">Services</a>
+		<ul class="dropdown-menu">
+			<li class="has-dropdown">
+				<a href="compliance.php" data-toggle="dropdown" class="dropdown-toggle menu-item" data-hover="shop">Healthcare Compliance Services</a>
+                <ul class="dropdown-menu level2">
+                    <li><a href="">Compliance Program Design and Implementation</a></li>
+                    <li>
+				<a href="sop.php">SOP Development & Template SOP/Policy Documents</a>
+			</li>
+			<li>
+				<a href="material.php">Materials/Meeting Review and Certification</a>
+			</li>
+			<li>
+				<a href="fmv.php">FMV Consulting Services </a>
+			</li>
+			<li>
+				<a href="transparency.php">Transparency Disclosure</a>
+			</li>
+			<li>
+				<a href="audits.php">Audits, Monitoring & Investigations</a>
+			</li>
+			<li>
+				<a href="compliance-training.php">Compliance Trainings</a>
+			</li>
+			<li>
+				<a href="Compliance-strategy.php">Compliance Strategy</a>
+			</li>
+			<li>
+				<a href="GDPR-Guidance.php">GDPR Guidance</a>
+			</li>
+			<li>
+				<a href="grants.php">Grants & Funding Management</a>
+			</li>
+			<li>
+				<a href="consent-management.php">Consent Management</a>
+			</li>
+			<li>
+				<a href="recruitment.php">Recruitment</a>
+			</li>
+</ul>
+			</li>
+			
+			<li class="has-dropdown">
+				<a href="compliance.php" data-toggle="dropdown" class="dropdown-toggle menu-item" data-hover="shop">Data Protection Services</a>
+                <ul class="dropdown-menu level2">
+                    <li><a href="">GDPR Guidance</a></li>
+                    <li>
+				<a href=".php">Consent Management</a>
+			</li>
+			
+</ul>
+			</li>
+			
+			<li>
+				<a href=".php">Compliance Trainings</a>
+			</li>
+			<li>
+				<a href=".php">Additional Services </a>
+			</li>
+			
+	
+		</ul>
+	</li>
+	
+    <li class="about"> 
+		<a href="about.php" >About Us</a>
+
+	</li>
+				<li> 
+		<a href="meet-the-team.php">Team</a>
+
+	</li>
+
+				<li> 
+		<a href="contact-us.php">Contact Us</a>
+
+	</li>
+	<!-- li end -->
+			</ul>
+	
+		
+	
+			</div>
+			<!-- .navbar-collapse -->
+			</div><!-- .container-bordered end  -->
+		</div>
+		<!-- .container end  -->
+	</nav>
+</header>
+
